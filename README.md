@@ -44,7 +44,7 @@ AI-Attendance-System/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ShantanuGorai/AI-based-Attendance
+git clone https://github.com/ShantanuGorai/AI-based-Attendance.git
 
 # Navigate to project folder
 cd AI-Attendance-System
